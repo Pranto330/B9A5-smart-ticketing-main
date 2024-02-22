@@ -1,0 +1,33 @@
+
+.div{
+    background-image: url(./images/banner.png);
+    background-repeat: no-repeat;
+    height: 680px;
+    
+    
+    
+
+}
+.poppins-regular {
+    font-family: sans-serif;
+    font-style: normal;
+  }
+  .lato-light {
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+  }
+ .pro{
+  border-top: 5px solid green;
+ }
+ .seat{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 10px;
+  column-gap: 10px;
+ }
+ .pri{
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+  border-radius: 5px;
+ }
